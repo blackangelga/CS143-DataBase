@@ -1,0 +1,14 @@
+1,Anna Pavlova,ballet,expert,32,425-125-9874,ana.pavlova@dance.com
+2,Vaslav Nijinsky,ballet,master,40,206-675-1280,nijinsky@ballet.net
+3,Fred Astaire,ballroom,master,360,310-387-4499,astaire@ballet.net
+4,Sammy Davis,tap,expert,27,909-123-6578,davis@pop.com
+5,Gene Kelly,ballroom,beginner,12,707-945-7765,kelly@ballroom.com
+6,Mikhail Baryshnikov,ballet,intermediate,10,707-874-6589,baryshnikov@ballet.com
+7,Michael Jackson,modern pop,advanced,9,303-313-5455,michael@pop.com
+8,Luara como Lino,samba,advanced,18,452-257-6733,nijinsky@ballet.com
+9,Magan Gopal,salsa,intemediate,6,206-675-1280,gopal@salsa.com
+10,Sukshinder Shinda,bhangra,beginner,2,661-038-9512,sshinda@bhangra.com
+11,Michael Ryan Flatley,irish,intemediate,30,254-113-6457,flastley@irish.com
+12,Rags Sharqi,baladi,advanced,14,684-031-3210,rags.sharqi@baladi.com
+13,Cherie Magnus,milonga,beginner,5,206-675-1280,magus@milonga.com
+14,Kahte Culevski,balkan,advanced,8,321-741-3771,kculevski@balkanbeat.net
